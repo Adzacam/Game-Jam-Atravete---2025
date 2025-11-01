@@ -141,7 +141,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &148680883
 RectTransform:
   m_ObjectHideFlags: 0
@@ -359,7 +359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &955127916
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -881,7 +881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd68f027e715c44aa8d097000d4cccfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1001 &6276659663144798207
+--- !u!1001 &3821992208363341394
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -945,5 +945,5 @@ SceneRoots:
   - {fileID: 1799306720}
   - {fileID: 389255506}
   - {fileID: 1199920617}
-  - {fileID: 6276659663144798207}
+  - {fileID: 3821992208363341394}
   - {fileID: 1518033083}
