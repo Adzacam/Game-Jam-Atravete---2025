@@ -1,4 +1,3 @@
-repository "Jardin Sen/Jardin Sen@4673935642180@cloud"
+rep "Jardin Sen/Jardin Sen@4673935642180@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
